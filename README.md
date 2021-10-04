@@ -6,6 +6,7 @@ Before starting program install library:
 
 `pip install requests-html`
 
-* Put your URLs into 'urls.txt' and start the program.
-* The result will be in 'result.csv'.
-* You can change the default in/out file names while creating a class instance.
+* Put your URLs .txt file into the program directory
+* Start the program and enter the URLs filename.
+* The result will be in the "result.csv" file.
+* You can change the default in/out file names while creating a class instance. 
