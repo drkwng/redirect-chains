@@ -1,4 +1,4 @@
-# Check redirect chains
+# Check redirect chains by [DRKWNG](https://drkwng.rocks)
 
 Checks URLs redirect chains and write a report into a .csv file.
 
